@@ -25,5 +25,4 @@ npm start
 6. Run python manage.py collectstatic
 
 ## Disclaimer
-This project does not cover concepts of image recognition - it is a proof of concept teaching how to take an idea from scratch to something real.
-
+This project does not cover concepts of image recognition - it is a proof of concept how to take an idea from scratch to something real.
